@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Test_table_extended" max_length="40" name="x_357352_from_scra_test_table_extended" type="collection"/>
+</database>

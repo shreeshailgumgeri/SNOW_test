@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test_table_extended">fbb520521b2973009aa7a9b4bd4bcb7c</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test_table_extended</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_357352_from_scra_test_table_extended</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_357352_from_scra.test_table_extended_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-23 06:52:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73b520521b2973009aa7a9b4bd4bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_table_extended</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="From_scratch" source="x_357352_from_scra">3f05c72d1b6133009aa7a9b4bd4bcb36</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="From_scratch">3f05c72d1b6133009aa7a9b4bd4bcb36</sys_scope>
+        <sys_update_name>sys_app_module_73b520521b2973009aa7a9b4bd4bcb7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-23 06:52:45</sys_updated_on>
+        <timeline_page/>
+        <title>Test_table_extended</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

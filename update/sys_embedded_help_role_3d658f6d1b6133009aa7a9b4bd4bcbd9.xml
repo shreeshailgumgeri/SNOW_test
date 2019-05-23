@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_357352_from_scra.test_table_user" name="x_357352_from_scra.test_table_user">31654f2d1b6133009aa7a9b4bd4bcba4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-21 10:34:51</sys_created_on>
+        <sys_id>3d658f6d1b6133009aa7a9b4bd4bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>31654f2d1b6133009aa7a9b4bd4bcba4</sys_name>
+        <sys_package display_value="From_scratch" source="x_357352_from_scra">3f05c72d1b6133009aa7a9b4bd4bcb36</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="From_scratch">3f05c72d1b6133009aa7a9b4bd4bcb36</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3d658f6d1b6133009aa7a9b4bd4bcbd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-21 10:34:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
